@@ -30,7 +30,7 @@ export default function About() {
         </h2>
         <div className=" m-auto">
           <GitHubCalendar
-            username="niaziiii"
+            username="uzair-zahoor"
             color="#00ff0a"
             year={new Date().getFullYear()}
           />

@@ -16,7 +16,7 @@ const FindMe = () => {
       <ul className="mb-6 flex justify-center items-center gap-4">
         <li className="bg-white rounded-full custom-shadow">
           <a
-            href="https://github.com/niaziiii"
+            href="https://github.com/uzair-zahoor"
             className=" text-3xl cursor-pointer text-black"
           >
             <AiFillGithub />
@@ -24,7 +24,7 @@ const FindMe = () => {
         </li>
         <li className="bg-white rounded-full custom-shadow">
           <a
-            href="https://twitter.com/MuhabatNiazi"
+            href="https://twitter.com/UzairZahoor7"
             className=" text-3xl cursor-pointer text-black"
           >
             <AiOutlineTwitter />
@@ -32,7 +32,7 @@ const FindMe = () => {
         </li>
         <li className="bg-white rounded-full custom-shadow">
           <a
-            href="https://www.linkedin.com/in/muhabat-khan-niazi-926854192/"
+            href="https://www.linkedin.com/in/uzair-zahoor-1a46a0194/"
             className=" text-3xl cursor-pointer text-black"
           >
             <AiFillLinkedin />
@@ -40,7 +40,7 @@ const FindMe = () => {
         </li>
         <li className="bg-white rounded-full custom-shadow">
           <a
-            href="tel:923083909131"
+            href="tel:923115762092"
             className=" text-3xl cursor-pointer text-black"
           >
             <AiOutlineWhatsApp />

@@ -1,5 +1,5 @@
 import React from "react";
-import { GiCook, GiHiking, GiBookCover } from "react-icons/gi";
+import { GiCook, GiHiking, GiBookCover, GiSportMedal } from "react-icons/gi";
 import hobbyAnimation from "../../assets/animations/hobby__animation.json";
 import Lottie from "lottie-react";
 
@@ -12,13 +12,13 @@ const AboutMe = () => {
             Know Who <b className="text-main ">I'M</b>
           </h1>
           <p className="text-lg mb-2  gap-x-2 flex-wrap">
-            Hi Everyone, I am <b className="text-main ">Muhabat Khan Niazi</b>{" "}
-            from <b className="text-main ">Multan, Pakistan</b>.
+            Hi Everyone, I am <b className="text-main ">Uzair Zahoor</b> from{" "}
+            <b className="text-main ">Abbottabad, Pakistan</b>.
           </p>
           <p className="text-lg mb-2 flex gap-x-2 flex-wrap">
             I am (<b className="text-main ">pretending to be</b>) a professional{" "}
             <b className="text-main ">Software Developer</b> in Industry for
-            about 2 years now.
+            about 1 years now.
           </p>
           <p className="text-lg mb-2 flex gap-x-2 flex-wrap">
             Apart from coding, some other activities that I love to do!
@@ -26,6 +26,9 @@ const AboutMe = () => {
           <ul className="mt-6">
             <li className="flex items-center gap-4 mb-5 text-2xl">
               <GiBookCover /> Documentries
+            </li>
+            <li className="flex items-center gap-4 mb-5 text-2xl">
+              <GiSportMedal /> Sports
             </li>
             <li className="flex items-center gap-4 mb-5 text-2xl">
               <GiCook /> Cooking

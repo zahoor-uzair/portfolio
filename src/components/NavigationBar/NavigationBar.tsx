@@ -29,7 +29,7 @@ const navigations = [
   },
   {
     name: "",
-    url: "https://github.com/niaziiii",
+    url: "https://github.com/uzair-zahoor",
     icon: <AiOutlineGithub fontSize={25} />,
   },
 ];
