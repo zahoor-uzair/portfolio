@@ -23,7 +23,7 @@ const Footer = () => {
         <ul className="flex justify-end items-center gap-4">
           <li className=" rounded-full custom-shadow">
             <a
-              href="https://github.com/niaziiii"
+              href="https://github.com/uzair-zahoor"
               className=" text-lg  cursor-pointer text-white "
             >
               <AiFillGithub />
@@ -31,7 +31,7 @@ const Footer = () => {
           </li>
           <li className=" rounded-full custom-shadow">
             <a
-              href="https://twitter.com/MuhabatNiazi"
+              href="https://twitter.com/UzairZahoor7"
               className=" text-lg  cursor-pointer text-white "
             >
               <AiOutlineTwitter />
@@ -39,7 +39,7 @@ const Footer = () => {
           </li>
           <li className=" rounded-full custom-shadow">
             <a
-              href="https://www.linkedin.com/in/muhabat-khan-niazi-926854192/"
+              href="https://www.linkedin.com/in/uzair-zahoor-1a46a0194/"
               className=" text-lg  cursor-pointer text-white "
             >
               <AiFillLinkedin />
@@ -47,7 +47,7 @@ const Footer = () => {
           </li>
           <li className=" rounded-full custom-shadow">
             <a
-              href="tel:923083909131"
+              href="tel:923115762092"
               className=" text-lg cursor-pointer text-white"
             >
               <AiOutlineWhatsApp />

@@ -37,11 +37,6 @@ const skills = [
     background: "#8512f3",
   },
   {
-    name: "SASS",
-    icon: <DiSass />,
-    background: "#c76395",
-  },
-  {
     name: "Material-ui",
     icon: <SiMaterialdesign />,
     background: "#00aaf7",
@@ -71,11 +66,7 @@ const skills = [
     icon: <SiNextdotjs />,
     background: "#000",
   },
-  {
-    name: "Redux",
-    icon: <SiRedux />,
-    background: "#7248b6",
-  },
+
   {
     name: "Node Js",
     icon: <DiNodejsSmall />,
@@ -95,11 +86,6 @@ const skills = [
     name: "MongoDb",
     icon: <SiMongodb />,
     background: "#0fa54d",
-  },
-  {
-    name: "SQL",
-    icon: <TbSql />,
-    background: "#214ce5",
   },
 ];
 
