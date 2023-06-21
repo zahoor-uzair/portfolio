@@ -94,7 +94,7 @@ const NavigationBar = () => {
         </button>
 
         <Link href="/" onClick={closeNavBar} className="-mt-20">
-          <b className=" text-3xl truncate">NiaziOnTop</b>
+          <b className=" text-3xl truncate">Uzair Zahoor</b>
         </Link>
         {navigations.map((navigation, i) => (
           <Link
