@@ -51,6 +51,12 @@
 .hover:hover {
   color: rgb(141, 126, 60) !important;
 }
+.nav-mob{
+  background-color: rgb(141, 126, 60);
+}
+.nav-mob:hover{
+  background-color: rgb(148, 135, 78);
+}
 .experience-images {
   width: 175px;
   height: 150px;
