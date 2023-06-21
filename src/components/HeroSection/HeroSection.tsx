@@ -17,7 +17,7 @@ const HeroSection = () => {
         </h2>
         <h1 className=" text-4xl leading-1/2 mb-6  md:mb-8 md:text-5xl lg:w-96">
           I'M <b className="text-main">Uzair Zahoor </b>
-          (un) popularly known as <b className="text-main">“Uzair Zahoor”</b>
+          a Software Engineer , <b className="text-main">“Web Developer”</b>
         </h1>
         <div>
           <Introduction />

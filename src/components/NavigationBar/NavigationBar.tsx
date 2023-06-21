@@ -85,7 +85,7 @@ const NavigationBar = () => {
 
       {/* mobile */}
       <div
-        className=" bg-secondary text-white transition-all flex flex-col justify-center p-6 gap-10 z-50 h-[100vh] fixed top-0 right-0 w-[15rem]"
+        className=" bg-black text-white transition-all flex flex-col justify-center p-6 gap-10 z-50 h-[100vh] fixed top-0 right-0 w-[15rem]"
         ref={ref}
         style={{ transform: "translateX(100%)" }}
       >
@@ -101,7 +101,7 @@ const NavigationBar = () => {
             href={`${navigation.url}`}
             key={i}
             onClick={closeNavBar}
-            className="flex items-center justify-center gap-1 rounded-lg font-bold bg-main p-2 px-6 w-full hover:bg-main/75"
+            className="flex items-center justify-center gap-1 rounded-lg font-bold  p-2 px-6 w-full nav-mob"
           >
             {navigation.icon}
             {navigation.name}
