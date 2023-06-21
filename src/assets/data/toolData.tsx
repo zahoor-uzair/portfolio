@@ -28,21 +28,6 @@ const tools = [
   },
 
   {
-    name: "Heroku",
-    icon: <SiHeroku />,
-    background: "#635ea1",
-  },
-  {
-    name: "Vercel",
-    icon: <SiVercel />,
-    background: "black",
-  },
-  {
-    name: "Netlify",
-    icon: <SiNetlify />,
-    background: "#24c1b1",
-  },
-  {
     name: "Github",
     icon: <AiFillGithub />,
     background: "#000",
