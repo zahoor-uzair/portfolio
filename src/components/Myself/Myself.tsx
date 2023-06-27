@@ -15,13 +15,13 @@ const MySelf = () => {
             have been pretending to be (
             <a
               className="text-main border-b"
-              href="https://twitter.com/MuhabatNiazi"
+              href="https://twitter.com/UzairZahoor7"
             >
               Report me on Twitter
             </a>
             ) a professional <b className="text-main">Software Developer </b>
             in the freelancing industry for almost
-            <b className="text-main"> 2 years</b> now. 🤷‍♂️
+            <b className="text-main"> 1 years</b> now. 🤷‍♂️
           </p>
           <p className="text-base md:text-xl mt-6">
             I have been able to write the infamous
